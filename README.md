@@ -8,7 +8,7 @@ Udacity, but some information needed for the analysis, like favorites and retwee
 were not available on the dataset. We had to use Web-Scraping via the Twitter Tweepy
 API. Our analyses were based on tweets on or before 2017.
 
-## About WERATEDOGS (@dog_rates)
+### About WERATEDOGS (@dog_rates)
 
 **WeRateDogs**, also known as @dog_rates, is a Twitter account created in 2015 by college
 student, Matt Nelson with the aim of rating people's dogs with humorous comments
@@ -28,7 +28,7 @@ We would be answering the following questions based on our analysis:
 3. Which dog breed recorded the highest retweet count?
 4. Which dog breed has the highest number of likes on average?
 
-# ROADMAP
+## ROADMAP
 During the data wrangling process, a number of steps were undertaken in order to get the
 data ready for analysis.
 The entire data wrangling process was done using the Jupyter Notebook.
@@ -50,7 +50,7 @@ The third and final method using the Tweepy library to query the remaining datas
 (tweet_json.txt) through the Twitter API. The returned result was in JSON format, and
 this result was saved to our directory for further assessment and analysis.
 
-## Assessing data
+## ASSESSING DATA
 This process involved both manual and programmatic assessment of our datasets.
 We leveraged the Pandas library functions for the programmatic assessment. The functions used were DataFrame.info(), DataFrame.describe(), DataFrame.head(), etc.
 The matplotlib library was useful for visualization of the datasets in order to draw
@@ -63,13 +63,13 @@ table). We were able to observe about 8 quality issues and 2 Tidiness issues on 
 datasets. After the assessment, the three datasets were merged into a single column
 for further analysis.
 
-## Cleaning data
+## CLEANING DATA
 This step was all about cleaning our dataset based on all of the issues observed
 during the assessment stage. The cleaning process involved changing datatypes,
 dropping columns and rows that would not be useful, replacing or dropping missing
 rows/columns, correcting spelling errors, collapsing columns of similar features into
 a single column.
 
-## Storing data
+## STORING DATA
 At the end of the cleaning process, the cleaned data was saved and stored as
 twitter_archive_master.csv for exploratory and explanatory data analysis.
