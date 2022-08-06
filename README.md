@@ -114,5 +114,5 @@ We can conclude that based on number, Golden Retriever is most popular dog breed
 
 ## References
 [Weratedogs-wikipedia](https://en.wikipedia.org/wiki/WeRateDogs)
-[](https://www.dailydot.com/debug/twitter-dog-rates-dmca-takedown/)
-[](https://www.vice.com/en/article/aekvg8/twitter-rate-dogs-account-suspended)
+[dailydot](https://www.dailydot.com/debug/twitter-dog-rates-dmca-takedown/)
+[vice](https://www.vice.com/en/article/aekvg8/twitter-rate-dogs-account-suspended)
