@@ -42,18 +42,18 @@ The data wrangling steps are listed below:
 ### DATA GATHERING
 There were three datasets for our analysis and three separate methods were taken to
 download each of them.
-The first method was to directly download the twitter_archive_enhanced.csv dataset
+The first method was to directly download the **twitter_archive_enhanced.csv** dataset
 and manually load it using the pandas read_csv object. This dataset contained over
 5000+ datasets of
-The second method was using the Requests library to download the image_prediction
+The second method was using the Requests library to download the **image_prediction**
 dataset from the website url provided.
 The third and final method using the Tweepy library to query the remaining dataset
-(tweet_json.txt) through the Twitter API. The returned result was in JSON format, and
+(**tweet_json.txt**) through the Twitter API. The returned result was in JSON format, and
 this result was saved to our directory for further assessment and analysis.
 
 ### ASSESSING DATA
 This process involved both manual and programmatic assessment of our datasets.
-We leveraged the Pandas library functions for the programmatic assessment. The functions used were DataFrame.info(), DataFrame.describe(), DataFrame.head(), etc.
+We leveraged the Pandas library functions for the programmatic assessment. The functions used were DataFrame.info(), DataFrame.describe(), **DataFrame.head()**, etc.
 The matplotlib library was useful for visualization of the datasets in order to draw
 more insights on relationships among the columns.
 We also checked our datasets for both Quality and Tidiness issues.
@@ -73,7 +73,7 @@ a single column.
 
 ### STORING DATA
 At the end of the cleaning process, the cleaned data was saved and stored as
-twitter_archive_master.csv for exploratory and explanatory data analysis.
+**twitter_archive_master.csv** for exploratory and explanatory data analysis.
 
 ### EXPLANATORY ANALYSIS
 
