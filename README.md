@@ -39,7 +39,7 @@ The data wrangling steps are listed below:
 4. Storing Data
 5. Explanatory Analysis
 
-## DATA GATHERING
+### DATA GATHERING
 There were three datasets for our analysis and three separate methods were taken to
 download each of them.
 The first method was to directly download the twitter_archive_enhanced.csv dataset
@@ -51,7 +51,7 @@ The third and final method using the Tweepy library to query the remaining datas
 (tweet_json.txt) through the Twitter API. The returned result was in JSON format, and
 this result was saved to our directory for further assessment and analysis.
 
-## ASSESSING DATA
+### ASSESSING DATA
 This process involved both manual and programmatic assessment of our datasets.
 We leveraged the Pandas library functions for the programmatic assessment. The functions used were DataFrame.info(), DataFrame.describe(), DataFrame.head(), etc.
 The matplotlib library was useful for visualization of the datasets in order to draw
@@ -64,18 +64,18 @@ table). We were able to observe about 8 quality issues and 2 Tidiness issues on 
 datasets. After the assessment, the three datasets were merged into a single column
 for further analysis.
 
-## CLEANING DATA
+### CLEANING DATA
 This step was all about cleaning our dataset based on all of the issues observed
 during the assessment stage. The cleaning process involved changing datatypes,
 dropping columns and rows that would not be useful, replacing or dropping missing
 rows/columns, correcting spelling errors, collapsing columns of similar features into
 a single column.
 
-## STORING DATA
+### STORING DATA
 At the end of the cleaning process, the cleaned data was saved and stored as
 twitter_archive_master.csv for exploratory and explanatory data analysis.
 
-## EXPLANATORY ANALYSIS
+### EXPLANATORY ANALYSIS
 
 #### Question 1: Which dog breed has the highest ratings?
 
