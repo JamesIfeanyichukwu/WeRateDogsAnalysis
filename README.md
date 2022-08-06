@@ -78,4 +78,4 @@ twitter_archive_master.csv for exploratory and explanatory data analysis.
 
 #### Question 1: Which dog breed has the highest ratings?
 
-![image](C:/Users/HP/Desktop/Certification Courses/WeRateDogsAnalysis/assets\q1_rating)
+![image](C:/Users/HP/Desktop/Certification Courses/WeRateDogsAnalysis/assets/q1_rating)
