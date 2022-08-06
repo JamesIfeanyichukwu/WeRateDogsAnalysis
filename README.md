@@ -37,6 +37,7 @@ The data wrangling steps are listed below:
 2. Assessing Data
 3. Cleaning Data
 4. Storing Data
+5. Explanatory Analysis
 
 ## DATA GATHERING
 There were three datasets for our analysis and three separate methods were taken to
@@ -84,6 +85,7 @@ twitter_archive_master.csv for exploratory and explanatory data analysis.
 • Bourvier Des Flandres and Clumber recorded the highest average tweet rating
 with an average tweet rating of 13, followed by Saluki with average tweet rating
 of 12.5.
+
 • We can also conclude that Bouvier Des Flandres, Clumber, Saluki, Briard, and
 Tibetan Mastiff are top 5 rated dog breeds.
 
@@ -92,7 +94,9 @@ Tibetan Mastiff are top 5 rated dog breeds.
 ![image](assets/q2_topcount.png)
 
 • The visualization shows the Top 10 Tweeted Dog Breeds.
+
 • We can conclude that Golden Retriever is the most tweeted Dog Breed 158 tweet counts, followed by Labrador Retriever with Tweet count of 108.
+
 • It appears Golden Retriever is the most popular breed of dog in homes.
 
 
@@ -107,6 +111,7 @@ Tibetan Mastiff are top 5 rated dog breeds.
 ![image](assets/q4_avg_likes.png)
 
 • We can conclude that Bedlington Terrier has the highest average number of likes per tweet compared to other dog breeds.
+
 • It appears Bedlington Terrier has the most humorous display and audience engagement which led to its highest number of likes every time it was tweeted.
 
 # CONCLUSION:
