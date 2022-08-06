@@ -73,3 +73,9 @@ a single column.
 ## STORING DATA
 At the end of the cleaning process, the cleaned data was saved and stored as
 twitter_archive_master.csv for exploratory and explanatory data analysis.
+
+## EXPLANATORY ANALYSIS
+
+#### Question 1: Which dog breed has the highest ratings?
+
+![image](C:/Users/HP/Desktop/Certification Courses/WeRateDogsAnalysis/assets\q1_rating)
