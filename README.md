@@ -80,3 +80,39 @@ twitter_archive_master.csv for exploratory and explanatory data analysis.
 
 ![image](assets/q1_rating.png)
 
+
+• Bourvier Des Flandres and Clumber recorded the highest average tweet rating
+with an average tweet rating of 13, followed by Saluki with average tweet rating
+of 12.5.
+• We can also conclude that Bouvier Des Flandres, Clumber, Saluki, Briard, and
+Tibetan Mastiff are top 5 rated dog breeds.
+
+### Question 2: Among the Dog Breeds, which top 10 were tweeted most?
+
+![image](assets/q2_topcount.png)
+
+• The visualization shows the Top 10 Tweeted Dog Breeds.
+• We can conclude that Golden Retriever is the most tweeted Dog Breed 158 tweet counts, followed by Labrador Retriever with Tweet count of 108.
+• It appears Golden Retriever is the most popular breed of dog in homes.
+
+
+### Question 3: Which dog breed recorded the highest retweet count?
+
+![image](assets/q3_retweet_count.png)
+
+• Golden Retriever remains the most retweeted dog breed with total retweet count of 477,396 retweets, followed by Labrador Retriever with retweet count of 313,615.
+
+### Question 4: Which dog breed has the highest number of likes on average?
+
+![image](assets/q4_avg_likes.png)
+
+• We can conclude that Bedlington Terrier has the highest average number of likes per tweet compared to other dog breeds.
+• It appears Bedlington Terrier has the most humorous display and audience engagement which led to its highest number of likes every time it was tweeted.
+
+# CONCLUSION:
+We can conclude that based on number, Golden Retriever is most popular dog breed in homes, while Berlington Terrier has the highest audience vote.
+
+## References
+[Weratedogs-wikipedia](https://en.wikipedia.org/wiki/WeRateDogs)
+[](https://www.dailydot.com/debug/twitter-dog-rates-dmca-takedown/)
+[](https://www.vice.com/en/article/aekvg8/twitter-rate-dogs-account-suspended)
