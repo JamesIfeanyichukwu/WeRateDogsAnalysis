@@ -53,7 +53,7 @@ this result was saved to our directory for further assessment and analysis.
 
 ### ASSESSING DATA
 This process involved both manual and programmatic assessment of our datasets.
-We leveraged the Pandas library functions for the programmatic assessment. The functions used were DataFrame.info(), DataFrame.describe(), **DataFrame.head()**, etc.
+We leveraged the Pandas library functions for the programmatic assessment. The functions used were **DataFrame.info(), DataFrame.describe(), DataFrame.head()**, etc.
 The matplotlib library was useful for visualization of the datasets in order to draw
 more insights on relationships among the columns.
 We also checked our datasets for both Quality and Tidiness issues.
